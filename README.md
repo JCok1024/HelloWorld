@@ -1,5 +1,5 @@
 # HelloWorld
-<h1>This is my first code repository. </h1>
+<h3>This is my first code repository. </h3>
 <p>I come from China.You can call me <em>JC</em> or <em>SeaRock(mean '海石' in English)</em>.</p>
 <p>This is my first code in GitHub. I'm a totally noob and beginner.
 <p>Thus, I'm trying hard to learn English and Javascript so that I can communicate with you all.</p>
